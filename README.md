@@ -1,6 +1,6 @@
 # 📊 Credit Card Analysis Dashboard
 
-![image alt](https://github.com/sudip17x/Amazon_Sales_Analysis_using_python/blob/ab849d1ffe3635a3f2dfbe4f97d120bbd5def696/Amazon%20Sales%20Dashboard%20Image.jpg)
+![image alt](https://github.com/sudip17x/Credit-card-analysis/blob/f798ea719ba3afa632209a7d4ab872b97f7ee893/credit%20card%20dashboard%20picture.jpg)
 
 ## 📌 Project Overview
 
