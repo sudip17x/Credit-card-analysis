@@ -1,5 +1,7 @@
 # 📊 Credit Card Analysis Dashboard
 
+![image alt](https://github.com/sudip17x/Amazon_Sales_Analysis_using_python/blob/ab849d1ffe3635a3f2dfbe4f97d120bbd5def696/Amazon%20Sales%20Dashboard%20Image.jpg)
+
 ## 📌 Project Overview
 
 This project provides an in-depth analysis of credit card transactions, customer acquisition costs, revenue, and delinquency trends using **Power BI**. The goal is to identify customer spending patterns, revenue generation, and potential risks to improve decision-making in financial services.
